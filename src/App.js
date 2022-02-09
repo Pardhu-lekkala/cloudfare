@@ -20,6 +20,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>React plus redux counter app</h1>
+        <h1>Cloudflare Testing</h1>
         <Counter />
       </header>
     </div>
